@@ -89,7 +89,6 @@ header {
 .box-2 {
   height: 250px;
   width: 100%;
-  display: flex;
 }
 
 .box-3 {
@@ -99,6 +98,16 @@ header {
 .hero {
   background-color: #EF82ED;
   height: 160px;
+}
+
+.box-4 {
+  padding: 20px;
+}
+
+
+.big-box {
+  height: 360px;
+  background-color: green;
 }
 
 /* Colori background*/
