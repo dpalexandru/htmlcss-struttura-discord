@@ -16,9 +16,14 @@
 
 }
 
-.max-width {
+.width-800 {
   width: 800px;
 }
+
+.width-600 {
+  width: 600px;
+}
+
 
 .bordo-dotter {
   border: 2px dotted black;
@@ -38,9 +43,10 @@
   padding: 5px
 }
 
-
-/*Generali*/
-
+.align-center {
+  align-items: center;
+  justify-content: center;
+}
 
 /*Header*/
 
@@ -49,8 +55,7 @@ header {
   height: 50px;
   text-align: center;
   display: flex;
-  align-items: center;
-  justify-content: center;
+
 }
 
 .header-info {
@@ -58,4 +63,36 @@ header {
   display: flex;
   justify-content: space-between;
 
+}
+
+/* main */
+
+.box-1 {
+  height: 200px;
+  width: 100%;
+  display: flex;
+
+
+}
+
+.box-2 {
+  height: 250px;
+  width: 100%;
+  display: flex;
+
+
+}
+
+.hero {
+  background-color: #EF82ED;
+  height: 160px;
+}
+
+/* Colori background*/
+.bg-blu {
+  background-color: #00018B;
+}
+
+.bg-white {
+  background-color: white;
 }
