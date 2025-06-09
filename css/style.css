@@ -32,7 +32,6 @@
   width: 40%;
 }
 
-
 .width-800 {
   width: 800px;
 }
@@ -44,7 +43,6 @@
 .height {
   height: 100px;
 }
-
 
 .bordo-dotter {
   border: 2px dotted black;
@@ -153,6 +151,7 @@ header {
 }
 
 /*footer*/
+
 hr {
   border: 1px solid gray;
 }
