@@ -167,6 +167,12 @@ footer {
 
 .footer-menu {
   height: 50px;
-  background-color: aqua;
+  background-color: #7FFFD4;
+  justify-content: space-between;
 
+}
+
+.footer-info {
+  padding: 2px;
+  background-color: #FEB6C3;
 }
