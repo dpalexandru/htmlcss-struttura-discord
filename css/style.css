@@ -16,6 +16,14 @@
 
 }
 
+.colonna-65 {
+  width: 65%;
+}
+
+.colonna-35 {
+  width: 35%;
+}
+
 .width-800 {
   width: 800px;
 }
@@ -24,10 +32,13 @@
   width: 600px;
 }
 
+.height {
+  height: 100px;
+}
+
 
 .bordo-dotter {
   border: 2px dotted black;
-
 }
 
 .text-right {
@@ -44,6 +55,7 @@
 }
 
 .align-center {
+  display: flex;
   align-items: center;
   justify-content: center;
 }
@@ -67,20 +79,21 @@ header {
 
 /* main */
 
+
 .box-1 {
   height: 200px;
   width: 100%;
   display: flex;
-
-
 }
 
 .box-2 {
   height: 250px;
   width: 100%;
   display: flex;
+}
 
-
+.box-3 {
+  height: 210px;
 }
 
 .hero {
@@ -95,4 +108,16 @@ header {
 
 .bg-white {
   background-color: white;
+}
+
+.bg-azzurro {
+  background-color: #1D90FF;
+}
+
+.bg-pink {
+  background-color: #FFC1CA;
+}
+
+.bg-gray {
+  background-color: #D3D3D3;
 }
