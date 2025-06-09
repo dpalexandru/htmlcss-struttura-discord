@@ -1,0 +1,24 @@
+/*Reset*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*Utility riutilizzabili*/
+
+
+
+/*Generali*/
+
+
+/*Header*/
+
+header {
+  background-color: #ADD8E7;
+  height: 50px;
+}
+
+.header.info {
+  background-color: #DAA51E;
+}
