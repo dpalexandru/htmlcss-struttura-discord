@@ -24,6 +24,15 @@
   width: 35%;
 }
 
+.colonna-15 {
+  width: 15%;
+}
+
+.colonna-40 {
+  width: 40%;
+}
+
+
 .width-800 {
   width: 800px;
 }
@@ -129,4 +138,16 @@ header {
 
 .bg-gray {
   background-color: #D3D3D3;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.bg-chocolate {
+  background-color: chocolate;
+}
+
+.bg-lightblue {
+  background-color: #22B3AA;
 }
