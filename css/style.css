@@ -151,3 +151,13 @@ header {
 .bg-lightblue {
   background-color: #22B3AA;
 }
+
+/*footer*/
+hr {
+  border: 1px solid gray;
+}
+
+footer {
+  background-color: black;
+  height: 70px;
+}
