@@ -58,7 +58,7 @@
 }
 
 .padding5 {
-  padding: 5px
+  padding: 10px
 }
 
 .align-center {
@@ -71,7 +71,7 @@
 
 header {
   background-color: #ADD8E7;
-  height: 50px;
+  height: 70px;
   text-align: center;
   display: flex;
 
@@ -84,36 +84,44 @@ header {
 
 }
 
+ul,
+li,
+a {
+  display: inline-block;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
 /* main */
 
 
 .box-1 {
-  height: 200px;
+  height: 300px;
   width: 100%;
   display: flex;
 }
 
 .box-2 {
-  height: 250px;
+  height: 400px;
   width: 100%;
 }
 
 .box-3 {
-  height: 210px;
+  height: 350px;
 }
 
 .hero {
   background-color: #EF82ED;
-  height: 160px;
+  height: 250px;
 }
 
 .box-4 {
-  padding: 20px;
+  height: 600px;
 }
 
 
 .big-box {
-  height: 360px;
+  height: 550px;
   background-color: green;
 }
 
@@ -156,12 +164,12 @@ hr {
   border: 1px solid gray;
 }
 
-footer {
+.footer-buttom {
   background-color: black;
-  height: 70px;
   display: flex;
   align-items: flex-end;
   justify-content: center;
+  padding-top: 20px;
 }
 
 .footer-menu {
